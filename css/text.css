@@ -1,0 +1,38 @@
+
+body{
+     background-color: #118a8c;
+}
+
+#txt{
+    font-size: 120px;
+     left: 800px;
+    line-height: 200px;
+    margin: auto;
+  margin-bottom: 100px;
+    position: absolute;
+    top: 30%;
+    color: red;
+    
+}
+
+h1{
+     font-size: 40px;
+     left: 800px;
+    line-height: 200px;
+    margin: auto;
+  margin-bottom: 100px;
+    position: absolute;
+    
+    color: white;
+}
+
+#button {
+  background-color: red;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
